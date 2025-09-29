@@ -10,4 +10,4 @@ tavily-python
 google-search-results
 plotly
 Pillow
-serpapi
+
